@@ -1,7 +1,7 @@
 var playlist = { danile: 'yesew eij' }
 
 
-function updatePlayList(playList, artistName, songTitle) {
+function updatePlaylist(playlist, artistName, songTitle) {
    playList.artistName  = songTitle
    return playList
 }
