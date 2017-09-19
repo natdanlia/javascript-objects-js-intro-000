@@ -1,4 +1,4 @@
-var playlist = {
+var playList = {
   danile: 'yesew eij',
   ephrem: 'atalfim bilo',
   lili: 'min addis neger ale'
