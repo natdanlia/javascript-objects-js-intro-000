@@ -4,7 +4,7 @@ var playList = {
   lili: 'min addis neger ale'
 }
 
-function updatePlaylist(playList, artistName, songTitle) {
+function updatePlayList(playList, artistName, songTitle) {
    playList.artistName  = songTitle
    return playList
 }
