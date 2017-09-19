@@ -4,6 +4,6 @@ var playlist = {
   lili: 'min addis neger ale'
 }
 
-// function updatePlaylist(obj, key, value) {
-//   return obj = {key: value}
-// }
+function updatePlaylist(playlist, artistName, songTitle) {
+  return obj = {key: value}
+}
